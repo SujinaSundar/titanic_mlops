@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Sujina_Work/Week41/titanic_mlops/mlruns/813780902107368426/eb187780b5e14a81b5c7b27f3dbffab7/artifacts
+end_time: 1777440746829
+entry_point_name: ''
+experiment_id: '813780902107368426'
+lifecycle_stage: active
+run_id: eb187780b5e14a81b5c7b27f3dbffab7
+run_name: glamorous-stoat-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777440746468
+status: 4
+tags: []
+user_id: sujin
