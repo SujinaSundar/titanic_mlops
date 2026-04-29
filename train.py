@@ -28,7 +28,6 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(
         model,
         name="model",
-        registered_model_name="titanic_model"
     )
     
     print("Accuracy",accuracy)
