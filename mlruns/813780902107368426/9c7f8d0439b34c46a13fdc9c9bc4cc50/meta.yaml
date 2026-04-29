@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Sujina_Work/Week41/titanic_mlops/mlruns/813780902107368426/9c7f8d0439b34c46a13fdc9c9bc4cc50/artifacts
+end_time: 1777440971977
+entry_point_name: ''
+experiment_id: '813780902107368426'
+lifecycle_stage: active
+run_id: 9c7f8d0439b34c46a13fdc9c9bc4cc50
+run_name: chill-bug-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777440971855
+status: 4
+tags: []
+user_id: sujin

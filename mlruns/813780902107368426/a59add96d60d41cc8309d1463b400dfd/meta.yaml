@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Sujina_Work/Week41/titanic_mlops/mlruns/813780902107368426/a59add96d60d41cc8309d1463b400dfd/artifacts
+end_time: 1777441056375
+entry_point_name: ''
+experiment_id: '813780902107368426'
+lifecycle_stage: active
+run_id: a59add96d60d41cc8309d1463b400dfd
+run_name: suave-bug-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777441056201
+status: 4
+tags: []
+user_id: sujin

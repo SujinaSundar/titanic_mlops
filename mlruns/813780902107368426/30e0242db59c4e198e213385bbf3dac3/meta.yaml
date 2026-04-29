@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Sujina_Work/Week41/titanic_mlops/mlruns/813780902107368426/30e0242db59c4e198e213385bbf3dac3/artifacts
+end_time: 1777441129679
+entry_point_name: ''
+experiment_id: '813780902107368426'
+lifecycle_stage: active
+run_id: 30e0242db59c4e198e213385bbf3dac3
+run_name: classy-zebra-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777441129521
+status: 4
+tags: []
+user_id: sujin
