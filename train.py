@@ -25,6 +25,10 @@ with mlflow.start_run():
     
     mlflow.log_param("n_estimators",100)
     mlflow.log_metric("Accuracy",accuracy)
-    mlflow.sklearn.log_model(model,registered_model_name="titanic_model")
+    mlflow.sklearn.log_model(
+        model,
+        name="model",
+        registered_model_name="titanic_model"
+    )
     
     print("Accuracy",accuracy)
