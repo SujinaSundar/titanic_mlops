@@ -1,8 +1,0 @@
-artifact_location: file:///D:/Sujina_Work/Week41/titanic_mlops/mlruns/813780902107368426
-creation_time: 1777440742948
-experiment_id: '813780902107368426'
-last_update_time: 1777440742948
-lifecycle_stage: active
-name: titanic exp
-trace_location: null
-workspace: default
